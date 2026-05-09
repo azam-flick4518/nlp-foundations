@@ -1,4 +1,4 @@
-# Week 1 — NLP Foundations
+# NLP Foundations
 
 > Covers tokenization, embeddings, semantic similarity, text classification, imbalanced classification, and model finetuning from first principles.
 
